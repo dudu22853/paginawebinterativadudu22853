@@ -1,0 +1,12 @@
+body {
+      color: rgb(25, 199, 77);
+      background-color: rgb(96, 40, 168);
+    margin: 0px;
+}
+
+header {
+       border-bottom: solid 2px rgb(214, 118, 118);
+       padding: 20px;
+       front-size: 32px;
+       color:rgb(77, 77, 160);
+}
